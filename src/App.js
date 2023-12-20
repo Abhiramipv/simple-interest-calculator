@@ -45,7 +45,7 @@ function App() {
 
           <div className='heading-text'>
 
-            <h1 className='title'>SIMPLE INTEREST CALCULATOR</h1>
+            <h2 className='title'>SIMPLE INTEREST CALCULATOR</h2>
 
             <p>Calculate Your Simple Interest Easily</p>
 
